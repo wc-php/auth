@@ -4,17 +4,21 @@
 // +----------------------------------------------------------------------
 // | Author: weika <weika520@qq.com>
 // +----------------------------------------------------------------------
-namespace app\auth\controller;
+namespace app\auth\model;
 
-use app\auth\model\Admin;
-
-class Wc
+class Admin
 {
-    public function a(){
+    /**
+     *
+     * @access public
+     * @param  mixed
+     * @param  bool|string
+     * @return
+     * @throws \Exception
+     */
+    public function abc()
+    {
         
-        return view('wc/a');
-        //return;
-       //
     }
 
 }
