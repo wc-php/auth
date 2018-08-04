@@ -9,7 +9,7 @@ namespace auth;
 class Wc
 {
     public function a(){
-        return 'auth wc a ';
+        return 'auth wc a ???';
     }
 
 }
