@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"app\\": "auth"}   
+        "psr-4": {"app\\": "src"}
     },
     "require": {}
 }
