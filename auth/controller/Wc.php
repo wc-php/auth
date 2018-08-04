@@ -4,12 +4,12 @@
 // +----------------------------------------------------------------------
 // | Author: weika <weika520@qq.com>
 // +----------------------------------------------------------------------
-namespace auth;
+namespace app\auth\controller;
 
 class Wc
 {
     public function a(){
-        return 'auth wc a ???';
+       return view();
     }
 
 }
